@@ -45,7 +45,7 @@ Reconator receives all the targets needs to be reconed via a Web Interface and a
 
 ## ⚙️ Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gokulapap/reconator)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Katanadev/reconator)
 
 ## 📋 Requirements
 
@@ -97,13 +97,13 @@ Join Our Telegram server [here](https://t.me/+cpbGih_iO50wNDg1)
 ## :information_source: How to contribute:
  
 If you want to contribute to this project then:
-- Submitting an [issue](https://github.com/gokulapap/Reconator/issues/new/choose) because you have found a bug or you have any suggestion or request.
+- Submitting an [issue](https://github.com/Katanadev/Reconator/issues/new/choose) because you have found a bug or you have any suggestion or request.
 - Submitting a feature request in this Form [form](https://forms.gle/VaZ9e4QTBxhjk2At7)
  
 ## :information_source: Need help?
  
-- Take a look at the [wiki](https://github.com/gokulapap/Reconator/wiki) section.  
-- Check [FAQ](https://github.com/gokulapap/Reconator/wiki/FAQ) for commonly asked questions.  
+- Take a look at the [wiki](https://github.com/Katanadev/Reconator/wiki) section.  
+- Check [FAQ](https://github.com/gokulapap/Katanadev/wiki/FAQ) for commonly asked questions.  
 - Ask for help in the [Telegram group](https://t.me/+cpbGih_iO50wNDg1)
 
 ## 🤝 Helping hands 🤝
